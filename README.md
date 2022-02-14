@@ -1,6 +1,6 @@
-[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueZer0theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueZer0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueZer0&layout=compacttheme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueZer0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RogueZer0/RogueZer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
