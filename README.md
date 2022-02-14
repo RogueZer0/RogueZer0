@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+
+<p> Here is arndom's ocoto-lang:</p>
+<img src= "./my-octo-lang.png" width="400px"/>
 
 <!--
 **RogueZer0/RogueZer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
