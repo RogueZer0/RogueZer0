@@ -1,7 +1,6 @@
 ### Hi there
 
-<p> Here is arndom's ocoto-lang:</p>
-<img src= "./my-octo-lang.png" width="400px"/>
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueZer0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RogueZer0/RogueZer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
